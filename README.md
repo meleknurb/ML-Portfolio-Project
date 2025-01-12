@@ -27,9 +27,9 @@ The project was developed with the following libraries and tools:
 
 **Data Set**
 
-The dataset is made available under the Apache 2.0 licence. See the license [https://www.apache.org/licenses/LICENSE-2.0]
+The dataset is made available under the Apache 2.0 licence. See the license [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 
-Data Set Source: [https://www.kaggle.com/datasets/hopesb/student-depression-dataset]
+Data Set Source: [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
 
 The dataset includes depression-related symptoms and the classification labels assigned to them.
 
@@ -48,9 +48,7 @@ With the pipeline and deployment processes, the model is ready for real-world ap
 This project is provided under the Apache 2.0 licence. I recommend that you review the licence terms before using the dataset and project files.
 
 About the Apache 2.0 Licence:
-The Apache licence encourages the use and distribution of free and open source software. For more information, visit the Apache Licence page. [https://www.apache.org/licenses/LICENSE-2.0]
-
-
+The Apache licence encourages the use and distribution of free and open source software. For more information, visit the Apache Licence page. [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 

@@ -18,9 +18,9 @@ Depression is a serious public health problem worldwide. In this project, it is 
 The project was developed with the following libraries and tools:  
 
 - **Python 3.8+**
-- **scikit-learn**: Data processing, pipelining and model evaluation.   
-- Pandas and NumPy**: Data manipulation and analysis.  
-- Matplotlib and Seaborn**: Data visualisation.  
+- **scikit-learn**: Data processing, modelling, pipelining and model evaluation.   
+- **Pandas and NumPy**: Data manipulation and analysis.  
+- **Matplotlib and Seaborn**: Data visualisation.  
 - **Joblib**: Saving and loading the model.  
 
 ---
